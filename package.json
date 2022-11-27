@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "lint": "npx textlint docs/*",
+    "lint:fix": "npm run lint -- --fix",
     "prepare": "husky install"
   },
   "repository": {
