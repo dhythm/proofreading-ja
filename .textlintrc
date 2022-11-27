@@ -1,0 +1,25 @@
+{
+  "filters": {
+    "comments": true,
+    "whitelist": true
+  },
+  "rules": {
+    "@textlint-ja/no-insert-dropping-sa": true,
+    "abbr-within-parentheses": true,
+    "footnote-order": true,
+    "general-novel-style-ja": true,
+    "ja-hiragana-fukushi": true,
+    "ja-hiragana-hojodoushi": true,
+    "ja-hiragana-keishikimeishi": true,
+    "ja-unnatural-alphabet": true,
+    "ng-word": true,
+    "no-mixed-zenkaku-and-hankaku-alphabet": true,
+    "period-in-list-item": true,
+    "prefer-tari-tari": true,
+    "preset-ja-spacing": true,
+    "preset-ja-technical-writing": true,
+    "preset-jtf-style": true,
+    "prh": false,
+    "spellcheck-tech-word": true
+  }
+}
