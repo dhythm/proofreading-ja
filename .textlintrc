@@ -48,7 +48,11 @@
     "prefer-tari-tari": true,
     "preset-ja-spacing": true,
     "preset-jtf-style": true,
-    "prh": false,
+    "prh": {
+      "rulePaths": [
+        "./rules/business.yml"
+      ]
+    },
     "spellcheck-tech-word": true
   }
 }
